@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/facultad/Arte 2D/runnerjam2023/RunnerTemplate/Content/MainMap.umap",
+				"D:/facultad/Arte 2D/runnerjam2023/RunnerTemplate/Content/BP_Player.uasset",
+				"D:/facultad/Arte 2D/runnerjam2023/RunnerTemplate/Content/input/Controller_Player.uasset",
+				"D:/facultad/Arte 2D/runnerjam2023/RunnerTemplate/Content/input/Forward.uasset",
+				"D:/facultad/Arte 2D/runnerjam2023/RunnerTemplate/Content/gamemode.uasset",
 				"E:/Luciano/Documents/Unreal Projects/RunnerTemplate/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"E:/Luciano/Documents/Unreal Projects/RunnerTemplate/Content/BP_Player.uasset",
 				"E:/Luciano/Documents/Unreal Projects/RunnerTemplate/Content/MainMap.umap"
